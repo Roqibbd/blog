@@ -1,0 +1,23 @@
+body {
+    font-family: helvetica;
+    background-color: #AA9C99;
+}
+
+ol {
+    font-family: monospace
+}
+
+li {
+    list-style: square;
+}
+
+.list {
+    list-style: circle;
+}
+
+#date {
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+}
